@@ -50,4 +50,10 @@ public class CreateNewContactTest extends BaseClass {
 	{
 		System.out.println("DEMO");
 	}
+	
+	@Test
+	public void Demo()
+	{
+		System.out.println("Just check for poll SCM in jenkins");
+	}
 }
